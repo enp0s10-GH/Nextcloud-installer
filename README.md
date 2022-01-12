@@ -16,8 +16,8 @@ You can easily use it as an Image for your Server.
   apt install git
   git clone https://github.com/enforcer-GH/Nextcloud-installer.git
   cd Nextcloud-installer/
-  chmod +x install
-  sudo bash install
+  chmod +x install.sh
+  sudo bash install.sh
 ```
 
 
