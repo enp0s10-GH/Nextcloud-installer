@@ -2,7 +2,7 @@
 
 # Nextcloud Installer Script
 
-This simple script will help you installing  [Nextcloud](https://github.com/nextcloud) on your server. The script has only been tested on Ubuntu 20.04. You can easily use it as an image for your server.
+This simple script will help you to install  [Nextcloud](https://github.com/nextcloud) on your server. The script has only been tested on Ubuntu 20.04. You can easily use it as an image for your server.
 
 
 
